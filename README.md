@@ -23,3 +23,9 @@ This software is part of a grade Thesis:
 1. Python 2.7
 1. TK module installed (some linux distributions do not install TK)
 1. Pygame (tested on 1.9.1release)
+
+## Use
+```
+$python Archivo1.py
+```
+The program screen is 640x480 and the coordinate system is equal. The buttons are in spanish.
